@@ -1,58 +1,78 @@
-## Hi there, I'm [Sharad Taygi] 👋
+# Hi there, I'm Sharad Tyagi 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Pandas+%7C+NumPy+%7C+Matplotlib+%7C+Seaborn;Building+Data-Driven+Projects)](https://git.iodiv>
+
 <p align="center">
-  <a href=www.linkedin.com/in/
-sharad-tyagi-b25683268
-"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:sharadtyagi733@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.comd-tyagi-b25683268
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:sharadtyagi733@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 🚀 About Me
 
-When I'm not working with data, I enjoy hiking. I love the "aha!" moment when data reveals something new and useful.
+🎓 B.Tech Student
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+📊 Aspiring Data Analyst passionate about data analysis and visualization
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+💡 Skilled in Python, SQL, Excel and Power BI
 
+📈 Interested in Data Cleaning, Dashboard Development and Business Insights
 
-## 🛠️ Technical Skillset
+🌱 Currently learning Advanced SQL, Power BI and Machine Learning
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+📍 Dadri, Uttar Pradesh, India
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-</p>
+---
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+## 🔭 Current Projects
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-</p>
+- Lost & Found Management System
+- Data Analysis Projects using Python
+- Power BI Interactive Dashboards
+- SQL Practice and Database Projects
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming
+
+![Python](https://img.shields.io/badge76AB?style=for-the-badge&logo=python&logoColor=white
+
+### Python Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-theo=pandas&logoColor=white
+![NumPy](https://img.shields.io/badge/243?style=for-the-badge&logo=numpy&logoColor=white
+![Matplotlib](https://img.shields.io/badge/Matplotlib-or-the-badge
+![tps://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge
+
+### Database
+
+![SQL](https://img.shields.io/bL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+
+### Data Analytics Tools
+
+![Excel](https://img.shields.io/badge7346?style=for-the-badge&logo=microsoft-excel&logoColor=white
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811he-badge&logo=powerbi&logoColor=black
+
+---
+
+## 📊 GitHub Stats
+
+![Sharad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&themeges](https://github-readme-stats.p-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sharad-tyagi-b25683268
+- Email: sharadtyagi733@gmail.com
+
+⭐ Always eager to learn new technologies and work on exciting projects.
